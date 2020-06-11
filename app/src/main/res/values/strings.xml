@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopupWindow</string>
+    <string name="pop_left">弹出左侧菜单</string>
+    <string name="pop_right">弹出右侧菜单</string>
+    <string name="pop_bottom">弹出底部菜单</string>
+    <string name="open">打开</string>
+    <string name="save">保存</string>
+    <string name="close">关闭</string>
+</resources>
