@@ -1,6 +1,7 @@
 package cn.xiayiye5.popupwindow
 
 import android.content.Context
+import android.content.Intent
 import android.graphics.drawable.ColorDrawable
 import android.os.Bundle
 import android.view.Gravity
@@ -129,6 +130,7 @@ class MainActivity : AppCompatActivity() {
         open.setOnClickListener {
             Toast.makeText(context, "Open", Toast.LENGTH_LONG).show()
             popupWindow!!.dismiss()
+            startActivity(Intent(this, HomeActivity::class.java))
         }
         save.setOnClickListener {
             Toast.makeText(context, "Open", Toast.LENGTH_LONG).show()
