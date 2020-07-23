@@ -16,6 +16,7 @@ import androidx.appcompat.app.AppCompatActivity
  * @author XiaYiYe5
  * 2020年7月23日15:58:09
  * 开发分支
+ * 用于区分Java和Kotlin版本的首页
  */
 class MainActivity : AppCompatActivity() {
     private var context: Context? = null

@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 /**
  * @author Administrator
+ * Java页面
  */
 public class MainActivityJava extends Activity {
     private Context context = null;
