@@ -201,4 +201,13 @@
 	<dimen name="dp_199">531.2194dp</dimen>
 	<dimen name="dp_200">533.8889dp</dimen>
 	<dimen name="dp_201">536.5583dp</dimen>
+	<dimen name="dp_202">539.2278dp</dimen>
+	<dimen name="dp_203">541.8972dp</dimen>
+	<dimen name="dp_204">544.5667dp</dimen>
+	<dimen name="dp_205">547.2361dp</dimen>
+	<dimen name="dp_206">549.9056dp</dimen>
+	<dimen name="dp_207">552.5750dp</dimen>
+	<dimen name="dp_208">555.2444dp</dimen>
+	<dimen name="dp_209">557.9139dp</dimen>
+	<dimen name="dp_210">560.5833dp</dimen>
 </resources>
