@@ -12,6 +12,11 @@ import android.widget.PopupWindow
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
+/**
+ * @author XiaYiYe5
+ * 2020年7月23日15:58:09
+ * 开发分支
+ */
 class MainActivity : AppCompatActivity() {
     private var context: Context? = null
     private var popupWindow: PopupWindow? = null
